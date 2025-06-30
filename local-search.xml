@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>test博客</title>
+    <link href="/2025/06/29/test/"/>
+    <url>/2025/06/29/test/</url>
+    
+    <content type="html"><![CDATA[<p>第一次发送博客，测试一下~</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>测试</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Hello World</title>
     <link href="/2025/06/29/hello-world/"/>
     <url>/2025/06/29/hello-world/</url>
